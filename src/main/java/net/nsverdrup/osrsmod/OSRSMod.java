@@ -2,6 +2,7 @@ package net.nsverdrup.osrsmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.nsverdrup.osrsmod.block.ModBlocks;
 import net.nsverdrup.osrsmod.item.ModItemGroups;
 import net.nsverdrup.osrsmod.item.ModItems;
@@ -19,5 +20,7 @@ public class OSRSMod implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
+		FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
 	}
 }
