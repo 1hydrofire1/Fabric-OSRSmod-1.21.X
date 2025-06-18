@@ -5,6 +5,9 @@
   "block.osrsmod.pink_garnet_block": "Block of Pink Garnet",
   "block.osrsmod.raw_pink_garnet_block": "Block of Raw Pink Garnet",
 
+  "block.osrsmod.pink_garnet_ore": "Pink Garnet Ore",
+  "block.osrsmod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+
   "itemgroup.osrsmod.pink_garnet_items": "Pink Garnet Items",
   "itemgroup.osrsmod.pink_garnet_blocks": "Pink Garnet Blocks"
 }
