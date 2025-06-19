@@ -14,5 +14,12 @@
   "block.osrsmod.magic_block": "Magic Block",
 
   "itemgroup.osrsmod.pink_garnet_items": "Pink Garnet Items",
-  "itemgroup.osrsmod.pink_garnet_blocks": "Pink Garnet Blocks"
+  "itemgroup.osrsmod.pink_garnet_blocks": "Pink Garnet Blocks",
+
+  "tooltip.osrsmod.magic_block.tooltip": "This block is very, very §9MAGICAL§r",
+
+  "tooltip.osrsmod.chisel.shift_down": "This item chisels blocks into Bricks!",
+  "tooltip.osrsmod.chisel": "Press §eShift§r for more Information!",
+
+  "tooltip.osrsmod.cauliflower.tooltip": "This is delicious!"
 }
